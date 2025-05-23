@@ -14,7 +14,7 @@ Este projeto é um cronômetro baseado na **técnica Pomodoro**, que consiste em
 
 ### Tempo encerrado
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 ---
 
 ## ⚙️ Funcionalidades
