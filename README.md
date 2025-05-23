@@ -31,7 +31,7 @@ Este projeto é um cronômetro baseado na **técnica Pomodoro**, que consiste em
 
 * [x] **Sons** ao final do tempo (alerta sonoro)
 * [x] **Modo noturno** com botão de alternância (toggle)
-* [x] Configuração manual de tempo de **foco** e **pausa**
+* [ ] Configuração manual de tempo de **foco** e **pausa**
 
 ---
 
