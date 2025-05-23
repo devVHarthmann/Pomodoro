@@ -10,7 +10,7 @@ Este projeto é um cronômetro baseado na **técnica Pomodoro**, que consiste em
 
 ### Timer em contagem
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 ### Tempo encerrado
 
